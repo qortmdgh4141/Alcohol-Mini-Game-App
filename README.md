@@ -1,6 +1,12 @@
 # Alcohol Mini Game App
-The application introduction is summarized in a PPT file. 👋
+The application introduction is summarized in a PPT file. 
 
+#### Motivation for development 👋
+As the usage rate of smartphones in Korea reached 95%, I felt that drinking games also needed to be changed.
+
+(Previously analog drinking games => digital drinking games)
+
+It has established a smartphone drinking game platform with the aim of enjoying more diverse and enjoyable drinking parties with acquaintances.
 #
 
 ### 💪 Skills
