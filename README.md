@@ -1,6 +1,8 @@
 # Alcohol Mini Game App
 The application introduction is summarized in a PPT file. 👋
 
+#
+
 ### 💪 Skills
 #### Platforms & Languages & Tools
 <p>
