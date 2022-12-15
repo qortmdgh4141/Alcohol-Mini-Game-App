@@ -1,11 +1,18 @@
 ## 🍻  Alcohol Mini Game App
 - The PPT file contains information about the Alcohol Mini Game App. <br/> <br/> <br/>
 
-### 1. &nbsp; Background of Development <br/> <br/> 
+### 1. &nbsp; Background of Development <br/> 
 - The proportion of adult smartphone use in Korea reached 95%, and accordingly, I thought it was necessary to change the drinking game culture. (Analog Drinking Game => Digital Drinking Game). So I developed Alcohol Mini Game App that makes drinking parties fun.<br/> <br/> <br/> <br/> 
 
-### 2. &nbsp; Main Screen<br/> <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/Main_screen.png?raw=true"  width="640" height="320"> <br/> <br/> <br/> <br/>
+### 2. &nbsp; Project Introduction <br/> <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/Main_screen.png?raw=true"  width="640" height="320"> <br/> 
+- This application allows anyone to learn quickly and enjoy games even if they don't have knowledge of games.
+- This application not only provides fun through games, but also offers a variety of alcohol recipes to enjoy alcohol. 
+- This application provides the last train time check function so that you can return home safely. <br/> 
+
+&nbsp; ⚠️ The alcohol game is so fun and the alcohol made from the alcohol recipe is so delicious that you may drink too much. <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drinking too much is bad for your health, so eat according to your drinking capacity. <br/> <br/> <br/> <br/> 
+
 
 ### 3. &nbsp; Main Function <br/> <br/> 
 - Crocodile Game <br/> <br/> 
