@@ -11,28 +11,28 @@
 
 ### 3. &nbsp; Main Function <br/> <br/> 
 - Crocodile Game <br/>
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/crocodile_game.png?raw=true"  width="640" height="180"> <br/> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/crocodile_game.png?raw=true"  width="640" height="180"> <br/> <br/> <br/> <br/> 
 
 - Up and Down Game <br/> <br/>
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/up_down_game.png?raw=true"  width="640" height="360"> <br/> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/up_down_game.png?raw=true"  width="640" height="360"> 
 
 - Pirate Game <br/> <br/> 
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/pirate_game.png?raw=true"  width="640" height="600"> <br/> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/pirate_game.png?raw=true"  width="640" height="600"> <br/> <br/> <br/> <br/>
 
 - Mole Game <br/> <br/>
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/mole_game.png?raw=true"  width="640" height="640"> <br/> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/mole_game.png?raw=true"  width="640" height="640"> <br/> <br/> <br/> <br/>
 
 - Initial Consonant Game <br/> <br/>
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/initial_consonant_game.png?raw=true"  width="1260" height="620"> <br/> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/initial_consonant_game.png?raw=true"  width="640" height="640"> <br/> <br/> <br/> <br/>
 
 - Number Apartment Game <br/> <br/>
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/number_apartment_game.png?raw=true"  width="480" height="400"> <br/> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/number_apartment_game.png?raw=true"  width="640" height="580"> <br/> <br/> 
 
-### 4. &nbsp; Auxiliary Function <br/> 
-- Public Transit Time Information Provision Service<br/> <br/> 
+### 4. &nbsp; Auxiliary Function <br/> <br/> 
 - Alcohol Recipe Information Provision Service <br/> <br/> 
-
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/alcohol_recipe.png?raw=true"  width="640" height="400"> <br/> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/alcohol_recipe.png?raw=true"  width="600" height="380"> <br/> <br/> 
+- Public Transit Time Information Provision Service<br/> <br/> <br/>
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/last_train_time_check.png?raw=true"  width="1280" height="640"> <br/> 
 
 --------------------------
 ### 💻 S/W Development Environment
