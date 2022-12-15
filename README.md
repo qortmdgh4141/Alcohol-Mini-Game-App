@@ -12,7 +12,7 @@
 - Initial Consonant Game
 - Number Apartment Game
 
-### 2. &nbsp; Service Feature <br/> 
+### 2. &nbsp; Auxiliary Function <br/> 
 - Public Transit Time Information Provision Service
 - Alcohol Recipe Information Provision Service <br/> <br/> 
 
