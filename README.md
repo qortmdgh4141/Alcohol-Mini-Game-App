@@ -4,10 +4,10 @@
 - The PPT file contains information about the Alcohol Mini Game App. <br/> <br/> 
 
 ### 1. &nbsp; Background of Development <br/> <br/> 
-- The proportion of adult smartphone use in Korea reached 95%, and accordingly, I thought it was necessary to change the drinking game culture. (Analog Drinking Game => Digital Drinking Game). So I developed Alcohol Mini Game App that makes drinking parties fun.<br/> <br/> 
+- The proportion of adult smartphone use in Korea reached 95%, and accordingly, I thought it was necessary to change the drinking game culture. (Analog Drinking Game => Digital Drinking Game). So I developed Alcohol Mini Game App that makes drinking parties fun.<br/> <br/> <br/> <br/> 
 
 ### 2. &nbsp; Main Screen<br/> <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/Main_screen.png?raw=true"  width="640" height="320"> <br/> <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/Main_screen.png?raw=true"  width="640" height="320"> <br/> <br/> <br/> <br/>
 
 ### 3. &nbsp; Main Function <br/> <br/> 
 - Crocodile Game <br/>
@@ -30,9 +30,9 @@
 
 ### 4. &nbsp; Auxiliary Function <br/> <br/> 
 - Alcohol Recipe Information Provision Service <br/> <br/> 
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/alcohol_recipe.png?raw=true"  width="600" height="380"> <br/> <br/> 
-- Public Transit Time Information Provision Service<br/> <br/> <br/>
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/last_train_time_check.png?raw=true"  width="1280" height="640"> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/alcohol_recipe.png?raw=true"  width="640" height="400"> <br/> <br/> 
+- Public Transportation Time Information Service <br/> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/public_transportation_time.png?raw=true"  width="640" height="520"> <br/> <br/> 
 
 --------------------------
 ### 💻 S/W Development Environment
