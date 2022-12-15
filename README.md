@@ -1,7 +1,5 @@
-<img src=""  width="480" height="240"> <br/> <br/> 
-
-## Alcohol Mini Game App
-- The PPT file contains information about the Alcohol Mini Game App. <br/> <br/> 
+## 🍻  Alcohol Mini Game App
+- The PPT file contains information about the Alcohol Mini Game App. <br/> <br/> <br/> <br/> 
 
 ### 1. &nbsp; Background of Development <br/> <br/> 
 - The proportion of adult smartphone use in Korea reached 95%, and accordingly, I thought it was necessary to change the drinking game culture. (Analog Drinking Game => Digital Drinking Game). So I developed Alcohol Mini Game App that makes drinking parties fun.<br/> <br/> <br/> <br/> 
