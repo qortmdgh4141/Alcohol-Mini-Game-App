@@ -40,8 +40,8 @@
 
 - **Initial Consonant Game** <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/initial_consonant_game.png?raw=true"  width="640" height="640"> <br/> 
-&nbsp; 1. &nbsp; At the start of the game, a random consonant appears. <br/> 
-&nbsp; 2. &nbsp; Everyone who can't speak within a set time or speaks at the end should drink a boilermaker! <br/> <br/> 
+  - At the start of the game, a random consonant appears. <br/> 
+  - Everyone who can't speak within a set time or speaks at the end should drink a boilermaker! <br/> <br/> 
 
 - **Number Apartment Game** <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/number_apartment_game.png?raw=true"  width="640" height="580"> <br/>  
