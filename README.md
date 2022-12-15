@@ -17,7 +17,7 @@
 - **Crocodile Game** <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/crocodile_game.png?raw=true"  width="720" height="240"> <br/>
 &nbsp; 1. &nbsp; Click on the teeth of a sleeping crocodile. <br/>
-&nbsp; 2. &nbsp; If you click on the tooth that wakes a sleeping crocodile, it will appear... <br/>
+&nbsp; 2. &nbsp; If you click on the tooth that wakes a sleeping crocodile, it will appear. <br/>
 &nbsp; 3. &nbsp; In that case, you should drink a boilermaker! <br/> <br/> 
 
 - **Up-Down Game** <br/> <br/>
