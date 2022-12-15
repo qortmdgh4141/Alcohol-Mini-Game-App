@@ -46,12 +46,12 @@
 - **Number Apartment Game** <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/number_apartment_game.png?raw=true"  width="640" height="580"> <br/>  
 &nbsp; 1. &nbsp; When the game starts, a random number appears, and at this time, players put their hands together to create an apartment. <br/>
-&nbsp; 2. &nbsp; Players check the number of floors by repeatedly pulling out the hands on the bottom floor and placing them on the top floor.  
+&nbsp; 2. &nbsp; Players check the number of floors by repeatedly pulling out the hands on the bottom floor and placing them on the top floor. <br/>
 &nbsp; 3. &nbsp; At this time, the player of the hand located on the random number floor should drink a boilermaker! <br/> <br/> <br/> 
 
 ### 4. &nbsp; Auxiliary Function <br/> <br/> 
 - **Alcohol Recipe Information Provision Service** <br/> <br/> -
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/alcohol_recipe.png?raw=true"  width="640" height="400"> <br/> <br/> <br/> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/alcohol_recipe.png?raw=true"  width="640" height="400"> <br/> <br/>
 - **Public Transportation Time Information Service** <br/> <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/public_transportation_time.png?raw=true"  width="640" height="520"> <br/> <br/> 
 
