@@ -10,8 +10,7 @@
 - This application not only provides fun through games, but also offers a variety of alcohol recipes to enjoy alcohol. 
 - This application provides the last train time check function so that you can return home safely. <br/> 
 
-&nbsp; ⚠️ The alcohol game is so fun and the alcohol made from the alcohol recipe is so delicious that you may drink too much. <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drinking too much is bad for your health, so eat according to your drinking capacity. <br/> <br/> <br/> 
+&nbsp; ⚠️ You may drink too much because the alcohol game is so fun and the alcohol made with the alcohol recipe is so delicious. <br/> <br/> <br/> 
 
 
 ### 3. &nbsp; Main Function <br/> <br/> 
