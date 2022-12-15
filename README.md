@@ -9,10 +9,10 @@
 
 ### 3. &nbsp; Main Function <br/> <br/> 
 - Crocodile Game <br/> <br/> 
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/crocodile_game.png?raw=true"  width="640" height="180"> <br/> <br/> <br/> <br/> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/crocodile_game.png?raw=true"  width="720" height="240"> <br/> <br/> <br/> <br/> 
 
 - Up and Down Game <br/> <br/>
-<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/up_down_game.png?raw=true"  width="640" height="360"> 
+<img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/up_down_game.png?raw=true"  width="800" height="480"> 
 
 - Pirate Game <br/> <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/pirate_game.png?raw=true"  width="640" height="600"> <br/> <br/> <br/> <br/>
