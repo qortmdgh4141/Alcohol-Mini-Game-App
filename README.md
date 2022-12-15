@@ -23,9 +23,9 @@
 - **Up-Down Game** <br/> <br/>
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/up-down_game.png?raw=true"  width="720" height="360"> <br/>
 &nbsp; 1. &nbsp; Up-down Game is a game in which players guess a random number from 1 to 100. <br/> 
-&nbsp; 2. &nbsp; If a random number set by the application is less than the number said by the player, the application says 'up', 
-<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and if it is large, the application gives a hint by saying 'down'. <br/> 
-&nbsp; 3. &nbsp; All players except the player who got the correct answer must drink a boilermaker! <br/> <br/>
+&nbsp; 2. &nbsp; If a random number set by the application is less than the number said by the player, the application says 'up' <br/> 
+&nbsp; 3. &nbsp; And if it is large, the application gives a hint by saying 'down'. <br/> 
+&nbsp; 4. &nbsp; All players except the player who got the correct answer must drink a boilermaker! <br/> <br/>
 
 - **Pirate Game** <br/> <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/pirate_game.png?raw=true"  width="640" height="600"> <br/> 
