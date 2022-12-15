@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/Main_screen.png?raw=true"  width="640" height="320"> <br/> 
 - This application allows anyone to learn quickly and enjoy games even if they don't have knowledge of games.
 - This application not only provides fun through games, but also offers a variety of alcohol recipes to enjoy alcohol. 
-- This application provides the last train time check function so that you can return home safely. <br/> 
+- This application provides public transportation time information so that you can return home safely. <br/> 
 
 &nbsp; ⚠️ You may drink too much because the alcohol game is so fun and the alcohol made with the alcohol recipe is so delicious. <br/> <br/> <br/> 
 
