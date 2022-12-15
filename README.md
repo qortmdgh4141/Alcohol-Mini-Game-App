@@ -22,21 +22,21 @@
 
 - **Up-Down Game** <br/> <br/>
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/up-down_game.png?raw=true"  width="720" height="360"> <br/>
-&nbsp; 1. &nbsp; Up-down Game is a game in which players guess random numbers from 1 to 100. <br/> 
-&nbsp; 2. &nbsp; If the number set by the application is less than the number said by the player, the application says 'up', 
+&nbsp; 1. &nbsp; Up-down Game is a game in which players guess a random number from 1 to 100. <br/> 
+&nbsp; 2. &nbsp; If a random number set by the application is less than the number said by the player, the application says 'up', 
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and if it is large, the application gives a hint by saying 'down'. <br/> 
 &nbsp; 3. &nbsp; All players except the player who got the correct answer must drink a boilermaker! <br/> <br/>
 
 - **Pirate Game** <br/> <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/pirate_game.png?raw=true"  width="640" height="600"> <br/> 
-&nbsp; 1. &nbsp; Players play the game by alternately inserting knives into roulette containers where a pirate is trapped. <br/> 
+&nbsp; 1. &nbsp; Players play the game by alternately inserting a knive into roulette container where a pirate is trapped. <br/> 
 &nbsp; 2. &nbsp; If a pirate pops out when a knife is inserted, the player should drink a boilermaker! <br/> <br/> 
 
 - **Mole Game** <br/>
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/mole_game.png?raw=true"  width="640" height="640"> <br/>
 &nbsp; 1. &nbsp; At the start of the game, 'Chamisul' appears randomly on the application screen. <br/> 
 &nbsp; 2. &nbsp; Within a set time, the player must click 'Chamisul' five times. <br/> 
-&nbsp; 3. &nbsp; If the player fails to click five times, the player must drink a penalty drink a boilermaker! <br/> <br/> 
+&nbsp; 3. &nbsp; If the player fails to click five times, the player must drink a boilermaker! <br/> <br/> 
 
 - **Initial Consonant Game** <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/initial_consonant_game.png?raw=true"  width="640" height="640"> <br/> 
