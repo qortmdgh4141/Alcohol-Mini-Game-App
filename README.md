@@ -29,14 +29,14 @@
 
 - _**Pirate Game**_ <br/> <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/pirate_game.png?raw=true"  width="640" height="600"> <br/> 
-  - _Players play the game by alternately inserting a knive into roulette container where a pirate is trapped._ <br/> 
-  - _If a pirate pops out when a knife is inserted, the player should drink a boilermaker!_ <br/> <br/> 
+  - _Players play the game by alternately inserting a knive into the roulette container where the pirate is trapped._ <br/> 
+  - _If the pirate pops out when a knife is inserted, the player should drink a boilermaker!_ <br/> <br/> 
 
 - _**Mole Game**_ <br/>
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/mole_game.png?raw=true"  width="640" height="640"> <br/>
   - _At the start of the game, 'Chamisul' appears randomly on the application screen._ <br/> 
   - _Within a set time, the player must click 'Chamisul' five times._ <br/> 
-  - _If the player fails to click five times, the player must drink a boilermaker!_ <br/> <br/> 
+  - _If the player fails to click five times, the player should drink a boilermaker!_ <br/> <br/> 
 
 - _**Initial Consonant Game**_ <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/initial_consonant_game.png?raw=true"  width="640" height="640"> <br/> 
