@@ -9,7 +9,9 @@
 - _This application allows anyone to learn quickly and enjoy games even if they don't have knowledge of games._
 - _This application not only provides fun through games, but also offers a variety of alcohol recipes to enjoy alcohol._
 - _This application provides public transportation time information so that you can return home safely._ <br/> 
-_⚠️ You may drink too much because the alcohol game is so fun and the alcohol made with the recipe is so delicious._ <br/> <br/> <br/> 
+
+&nbsp;&nbsp; _⚠️ &nbsp; You may drink too much because the alcohol game is so fun and the alcohol made with the recipe is so delicious._ <br/> <br/> <br/> 
+
 
 
 ### 3. &nbsp; Main Function <br/> <br/> 
