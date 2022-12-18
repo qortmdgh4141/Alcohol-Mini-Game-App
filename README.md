@@ -2,7 +2,7 @@
 - _The PPT file contains information about the Alcohol Mini Game App._ <br/> <br/> <br/>
 
 ### 1. &nbsp; Background of Development <br/> 
-- _The proportion of adult smartphone use in Korea reached 95%, and accordingly, I thought it was necessary to change the drinking game culture. (Analog Drinking Game => Digital Drinking Game). So I developed Alcohol Mini Game App that makes drinking parties fun._ <br/> <br/> <br/> 
+- _The proportion of adult smartphone use in Korea reached 95%, and accordingly, I thought it was necessary to change the drinking game culture. (Analog Drinking Game => Digital Drinking Game). So I developed "Alcohol Mini Game App" that makes drinking parties fun._ <br/> <br/> <br/> 
 
 ### 2. &nbsp; Project Introduction <br/> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/Main_screen.png?raw=true"  width="640" height="320"> <br/> 
