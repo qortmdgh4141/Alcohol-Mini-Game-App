@@ -50,10 +50,10 @@
   - _Players check the number of floors by repeatedly pulling out the hands on the bottom floor and placing them on the top floor._ <br/>
   - _At this time, the player of the hand located on the random number floor should drink a boilermaker!_ <br/> <br/> <br/> 
 
-### 4. &nbsp; Auxiliary Function <br/> <br/> 
-- _**Alcohol Recipe Information Provision Service**_ <br/> <br/> -
+### 4. &nbsp; Information Provision System <br/> <br/> 
+- _**Alcohol Recipe Information Provision System**_ <br/> <br/> -
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/alcohol_recipe.png?raw=true"  width="640" height="400"> <br/> <br/>
-- _**Public Transportation Time Information Service**_ <br/> <br/> 
+- _**Public Transportation Time Information System**_ <br/> <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/public_transportation_time.png?raw=true"  width="640" height="520"> <br/> <br/> 
 
 --------------------------
