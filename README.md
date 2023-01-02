@@ -47,12 +47,12 @@
   - _Players check the number of floors by repeatedly pulling out the hands on the bottom floor and placing them on the top floor._ <br/>
   - _At this time, the player of the hand located on the random number floor should drink a boilermaker!_ <br/><br/><br/> 
 
-### 4. &nbsp; Information Provision System <br/> <br/> 
-- _**Alcohol Recipe Information Provision System**_ <br/><br/> 
+### 4. &nbsp; Information Provision Function <br/> <br/> 
+- _**Alcohol Recipe Information Provision Function**_ <br/><br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/alcohol_recipe.png?raw=true"  width="640" height="400"> <br/> 
   - _This application provides various alcohol recipes so that you can drink alcohol deliciously._ <br/><br/>
   
-- _**Public Transportation Time Information System**_ <br/><br/> 
+- _**Public Transportation Time Information Provision Function**_ <br/><br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/public_transportation_time.png?raw=true"  width="640" height="520"> <br/>
   - _This application provides public transportation time information so that you can return home safely._ <br/><br/><br/>
 
