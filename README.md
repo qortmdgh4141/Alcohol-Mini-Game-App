@@ -7,8 +7,7 @@
 ### 2. &nbsp; Project Introduction <br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/Main_screen.png?raw=true"  width="640" height="320"> <br/> 
 - _This application allows anyone to learn quickly and enjoy games even if they don't have knowledge of games._ <br/>
-- _This application not only provides fun through games, but also offers various alcohol recipes._ <br/>
-- _This application provides public transportation time information so that you can return home safely._ <br/> 
+- _This application not only provides fun through games, but also offers various alcohol recipes and public transportation time information._ <br/>
 
 &nbsp;&nbsp; _⚠️ &nbsp; You may drink too much because the alcohol game is so fun and the alcohol made with the recipe is so delicious._ <br/><br/><br/> 
 
@@ -40,7 +39,7 @@
 - _**Initial Consonant Game**_ <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/initial_consonant_game.png?raw=true"  width="640" height="640"> <br/> 
   - _When the game starts, a random initial consonant appears._ <br/> 
-  - _Anyone who fails to say the word that matches the initial consonant within the specified time, or the last person who speaks, should drink the boiler maker!_ <br/><br/> 
+  - _Anyone who fails to say the word that matches the initial consonant within the specified time, or the last person who speaks, should drink a boiler maker!_ <br/><br/> 
 
 - _**Number Apartment Game**_ <br/> 
 <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/number_apartment_game.png?raw=true"  width="640" height="580"> <br/>  
