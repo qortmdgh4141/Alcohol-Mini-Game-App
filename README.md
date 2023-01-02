@@ -7,7 +7,7 @@
 ### 2. &nbsp; Project Introduction <br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/qortmdgh4141/Alcohol_Mini_Game_App/blob/main/image/Main_screen.png?raw=true"  width="640" height="320"> <br/> 
 - _This application allows anyone to learn quickly and enjoy games even if they don't have knowledge of games._ <br/>
-- _This application not only provides fun through games, but also offers various alcohol recipes so that you can drink alcohol deliciously._ <br/>
+- _This application not only provides fun through games, but also offers various alcohol recipes._ <br/>
 - _This application provides public transportation time information so that you can return home safely._ <br/> 
 
 &nbsp;&nbsp; _⚠️ &nbsp; You may drink too much because the alcohol game is so fun and the alcohol made with the recipe is so delicious._ <br/><br/><br/> 
