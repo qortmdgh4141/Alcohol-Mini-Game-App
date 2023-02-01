@@ -1,6 +1,6 @@
 # 🍻   Alcohol Mini Game App  
 <br/>
-
+ 
 ### 1. &nbsp; Background of Development <br/><br/> 
 - _The proportion of adult smartphone use in Korea reached 95%, and accordingly, I thought it was necessary to change the drinking game culture. (Analog Drinking Game => Digital Drinking Game). So, I devised "Alcohol Mini Game App" that makes drinking parties fun._ <br/><br/> <br/> 
 
