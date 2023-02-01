@@ -1,4 +1,4 @@
-# 🍻   Alcohol Mini Game App  
+# 🍻   Alcohol Mini Game App   
 <br/>
  
 ### 1. &nbsp; Background of Development <br/><br/> 
